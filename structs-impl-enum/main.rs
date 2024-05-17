@@ -1,6 +1,7 @@
 use core::num;
 use std::{io, num::ParseIntError};
 
+
 fn main() {
     //***************************** STRUCT / STRUCTURES ********************************** 
     //lets consider we want to store a person's informations which are name,age,height,weight,blood type
